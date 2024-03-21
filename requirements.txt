@@ -1,3 +1,5 @@
 flask
 chat
 transformers
+optimum
+auto_gptq
